@@ -1,0 +1,16 @@
+h1 {
+    color: #6c5f82;
+}
+h2 {
+    color: #5f6482;
+}
+h6 {
+    color: #474a28;
+}
+p{
+    color: rgb(50, 86, 18);
+}
+header,footer {clear:both; text-align:center;}
+nav {float:left;width:20%;height:450px;background: #AAAAFF;}
+main {float:left; width:60%;height:450px;background: rgb(193, 200, 211);}
+aside{float:left;width:20%;height:450px;background:#DAB1D5;}
